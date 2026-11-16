@@ -1,0 +1,5 @@
+﻿experiment,accuracy
+E1 no endpoint + MFCC13,1.0000
+E1 endpoint + MFCC13,1.0000
+E2 endpoint + MFCC13,1.0000
+E2 endpoint + MFCC13+delta,1.0000
